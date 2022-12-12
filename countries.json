@@ -1,0 +1,14 @@
+[
+  {
+    "serverName": "Italy",
+    "isPremium": false,
+    "icon": "https://cdn-icons-png.flaticon.com/512/323/323369.png",
+    "fileVPN": "Text"
+    },
+    {
+    "serverName": "Netherlands",
+    "isPremium": false,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png",
+    "fileVPN": "Text"
+    }
+]
